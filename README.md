@@ -1,9 +1,8 @@
 # high-order-func-example
 
-/*
- *  solution for the task given in:
+/*  solution for the task given in:
  *  https://javarush.ru/groups/posts/495-ljambdih-i-strimih-toljhko-praktika-teorii-ne-budet
- *  implementation of the simple ~calculate~ method with Java high order function feature.
+ *  implementation of the simple _calculate_ method with Java high order function feature.
 
  *  Use it at your own risk :)
 
