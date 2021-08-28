@@ -6,7 +6,8 @@
 
  *  Use it at your own risk :)
 
- * resources used:
+ *  resources used:
  *  https://dzone.com/articles/functional-programming-in-java-8-part-1-functions-as-objects
+ *  https://www.tutorialspoint.com/how-to-use-binaryoperator-t-interface-in-lambda-expression-in-java
  */
 
